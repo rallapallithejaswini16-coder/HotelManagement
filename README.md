@@ -1,4 +1,4 @@
-🏨 Hotel Reservation Management System
+ Hotel Reservation Management System
 
 Python Peer Review Project – Group 8
 
@@ -9,13 +9,13 @@ Academic Year: 2026–2027
 
 ---
 
-📌 Project Overview
+ Project Overview
 
 The Hotel Reservation Management System is a Python-based console application developed to simplify hotel operations, including customer registration, room management, reservation processing, availability checking, and billing.
 
 The project demonstrates the practical implementation of Python programming concepts, particularly Object-Oriented Programming (OOP), inheritance, polymorphism, exception handling, data structures, and JSON file handling.
 
-🎯 Objectives
+ Objectives
 
 - Simplify hotel room reservation operations.
 - Maintain customer information with unique identification numbers.
@@ -24,7 +24,7 @@ The project demonstrates the practical implementation of Python programming conc
 - Calculate room charges based on room categories.
 - Maintain records using JSON file storage.
 
-✨ Key Features
+ Key Features
 
 - Customer Management: Register customers and generate unique Customer IDs.
 - Room Management: Display room categories, prices, and available services.
@@ -35,7 +35,7 @@ The project demonstrates the practical implementation of Python programming conc
 - Data Persistence: Store customer, room, and reservation records in JSON files.
 - Exception Handling: Handle invalid inputs and booking errors.
 
-🛠️ Technologies Used
+ Technologies Used
 
 Technology| Purpose
 Python 3.10+| Core programming language
@@ -45,7 +45,7 @@ Datetime| Date validation and reservation management
 Pathlib| File and directory management
 OOP| Structured application development
 
-🧠 Python Concepts Implemented
+ Python Concepts Implemented
 
 - Classes and Objects
 - Encapsulation
@@ -56,7 +56,7 @@ OOP| Structured application development
 - File Handling
 - Data Validation
 
-🏗️ System Architecture
+ System Architecture
 
 The application is organized into the following major components:
 
@@ -66,7 +66,7 @@ The application is organized into the following major components:
 4. Billing System: Calculates charges according to room category and duration.
 5. JSON Storage: Maintains application data between executions.
 
-💻 Installation and Execution
+ Installation and Execution
 
 Prerequisites
 
@@ -89,7 +89,7 @@ python3 peer_review.py
 
 The application automatically creates the required JSON data files when executed for the first time.
 
-📋 Application Menu
+ Application Menu
 
 The system provides the following operations:
 
@@ -103,7 +103,7 @@ Option| Operation
 7| Cancel Reservation
 8| Exit Application
 
-💰 Billing Mechanism
+ Billing Mechanism
 
 The system uses polymorphism to calculate room charges according to the selected room category.
 
@@ -111,7 +111,7 @@ The system uses polymorphism to calculate room charges according to the selected
 - Deluxe Room: Base price plus amenities charges.
 - Suite: Base price plus amenities charges, with a 10% discount for stays of three or more nights.
 
-🔐 Data Management and Validation
+ Data Management and Validation
 
 The application uses JSON files to store room details, customer records, and reservation information.
 
@@ -123,7 +123,7 @@ It also implements:
 - Prevention of overlapping reservations.
 - Reservation cancellation validation.
 
-🚀 Future Enhancements
+ Future Enhancements
 
 - Graphical User Interface (GUI).
 - Database integration using MySQL or SQLite.
@@ -132,14 +132,14 @@ It also implements:
 - Automated invoice generation.
 - Email and SMS reservation notifications.
 
-👥 Project Information
+ Project Information
 
 Project Name: Hotel Reservation Management System
 Project Group: Group 8
 Project Type: Python Peer Review
 Domain: Hotel Management and Reservation Automation
 
-📖 Conclusion
+ Conclusion
 
 The Hotel Reservation Management System demonstrates the application of Python programming concepts in developing a practical hotel management solution. It provides an organized approach to customer registration, room reservations, availability management, billing, and data storage.
 
